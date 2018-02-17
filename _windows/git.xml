@@ -1,6 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="C:\Program Files\GitHub, Inc\GitHub Desktop.lnk" />
+    <option name="myPathToGit" value="C:\Users\Yura\AppData\Local\gitkraken\app-3.3.4\gitkraken.exe" />
     <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
   </component>
 </application>
